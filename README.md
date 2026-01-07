@@ -3,12 +3,43 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aayush%20Mahesh%20Mishra&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20Expert%20%7C%20Python%20Specialist&descAlignY=55&descAlign=50&descSize=18"/>
 </div>
 
-<!-- Alternative Typing Animation -->
+<!-- Creative Static Animation with Working Elements -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Full+Stack+Developer+from+India;💻+React+%7C+Python+%7C+Django+Specialist;🎯+Building+Scalable+Web+Applications;✨+15%2B+Projects+Successfully+Delivered;🌟+Available+for+Exciting+Opportunities" alt="Typing Animation" />
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+    🚀 Full Stack Developer from India 🇮🇳
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  </h1>
+  
+  <h2>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+    💻 React | Python | Django Specialist
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+  </h2>
+  
+  <h3>🎯 Building Scalable Web Applications ✨</h3>
+  <h3>🏆 5 Projects Successfully Delivered 🚀</h3>
+  <h3>💼 Available for Exciting Opportunities 🌟</h3>
+</div>
+
+<!-- Animated Badges Row -->
+<div align="center">
+  <img src="https://img.shields.io/badge/🚀-Full%20Stack%20Developer-00D4FF?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/💻-React%20Expert-61DAFB?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/🐍-Python%20Specialist-3776AB?style=for-the-badge&labelColor=1a1a1a" />
 </div>
 
 <br/>
+
+<!-- Backup: Animated Text with GIF -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    🚀 Full Stack Developer | React Expert | Python Specialist
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  </h2>
+  <h3>💻 Building Digital Solutions | 🎯 15+ Projects Completed | ✨ Availab
+/>
 
 
 
