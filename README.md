@@ -4,22 +4,14 @@
 </div>
 
 <!-- Creative Static Animation with Working Elements -->
+<!-- Working Typing Animation without Project Count -->
 <div align="center">
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-    🚀 Full Stack Developer from India 🇮🇳
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  </h1>
-  
-  <h2>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-    💻 React | Python | Django Specialist
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-  </h2>
-  
-  <h3>🎯 Building Scalable Web Applications ✨</h3>
-  <h3>🏆 5 Projects Successfully Delivered 🚀</h3>
-  <h3>💼 Available for Exciting Opportunities 🌟</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Full+Stack+Developer+from+India;💻+React+%7C+Python+%7C+Django+Expert;🎯+Building+Scalable+Web+Solutions;✨+Passionate+Problem+Solver;🌟+Available+for+New+Opportunities" alt="Typing Animation" />
+</div>
+
+<!-- Alternative: Simple Typing Animation -->
+<div align="center">
+  <img src="https://typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Expert;Python+Specialist;Problem+Solver" alt="Simple Typing" />
 </div>
 
 <!-- Animated Badges Row -->
@@ -39,7 +31,6 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </h2>
   <h3>💻 Building Digital Solutions | 🎯 15+ Projects Completed | ✨ Availab
-/>
 
 
 
