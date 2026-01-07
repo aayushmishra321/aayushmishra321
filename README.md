@@ -1,264 +1,258 @@
-<!-- Animated Header with Typing Effect -->
+<!-- Custom CSS Styling -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aayush%20Mahesh%20Mishra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+
+![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+
 </div>
 
-<!-- Animated Typing SVG -->
+<!-- Animated Name with Matrix Effect -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hello+World!+I'm+Aayush+Mahesh+Mishra+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Python+%7C+Django+Specialist+%F0%9F%94%A5;Building+Digital+Dreams+into+Reality+%E2%9C%A8" alt="Typing SVG" />
+</h1>
+
+<!-- Glowing Divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=&fontSize=1&animation=twinkling"/>
+
+<!-- Profile Views Counter with Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Digital+Experiences+%E2%9C%A8;React+%7C+Python+%7C+Django+Expert+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://visitcount.itsvg.in/api?id=aayushmishra321&icon=2&color=0" alt="Profile Views" />
 </div>
 
-<!-- Floating Badges -->
+<!-- About Me Section with Neon Cards -->
 <div align="center">
-  <img src="https://img.shields.io/badge/🌟_Level-Senior_Developer-00D9FF?style=for-the-badge&labelColor=0D1117&color=00D9FF" />
-  <img src="https://img.shields.io/badge/🎯_Focus-Full_Stack-9945FF?style=for-the-badge&labelColor=0D1117&color=9945FF" />
-  <img src="https://img.shields.io/badge/📍_Location-India-FF6B6B?style=for-the-badge&labelColor=0D1117&color=FF6B6B" />
-  <img src="https://komarev.com/ghpvc/?username=aayushmishra321&label=Profile%20Views&color=00D9FF&style=for-the-badge&labelColor=0D1117" />
+  
+## 🌟 About Me
+
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  🎯 **Current Mission**
+  
+  Building a **Dental Clinic Management System** that revolutionizes healthcare management
+  
+  🌱 **Learning Journey**
+  
+  Mastering **GSAP** & **Vanta.js** for mind-blowing animations
+  
+  🤝 **Collaboration Goals**
+  
+  Open to exciting **React Projects** and innovative ideas
+  
+</td>
+<td width="50%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300px" alt="Coding GIF"/>
+
+</td>
+</tr>
+</table>
+
 </div>
 
-<br>
+<!-- Tech Stack Section with Glowing Effects -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header&text=&fontSize=1"/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Developer Story Section -->
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-    <span style="color: #00D9FF;">The Developer Story</span>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  </h2>
+
+## 💻 Tech Stack Universe
+
+### 🎨 Frontend Mastery
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" width="65" height="65" />
+  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" width="65" height="65" />
+  <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" width="65" height="65" />
 </div>
 
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  currentProject: string;
-  learning: string[];
-  expertise: string[];
-  mission: string;
-}
-
-const aayush: Developer = {
-  name: "Aayush Mahesh Mishra",
-  role: "Full Stack Developer",
-  location: "India 🇮🇳",
-  currentProject: "Dental Clinic Management System 🦷",
-  learning: ["GSAP Animations", "Vanta.js", "Advanced React Patterns"],
-  expertise: [
-    "React Ecosystem", "Python & Django", "Database Design",
-    "Modern JavaScript", "UI/UX Implementation", "System Architecture"
-  ],
-  mission: "Building digital solutions that make a difference! 🚀"
-};
-
-// Current Status
-console.log(`${aayush.name} is crafting amazing web experiences...`);
-```
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Current Focus Section -->
+### ⚡ Backend Power
 <div align="center">
-  <h2>🎯 Current Focus</h2>
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🔭_Working_On-Dental_Clinic_System-00D9FF?style=for-the-badge&labelColor=0D1117" />
-        <br><br>
-        <img src="https://img.shields.io/badge/🌱_Learning-GSAP_&_Vanta.js-9945FF?style=for-the-badge&labelColor=0D1117" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/👯_Collaborating-React_Projects-FF6B6B?style=for-the-badge&labelColor=0D1117" />
-        <br><br>
-        <img src="https://img.shields.io/badge/💬_Ask_Me-Full_Stack_Development-4ECDC4?style=for-the-badge&labelColor=0D1117" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+  <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" width="65" height="65" />
 </div>
 
-<!-- Tech Stack with Floating Animation -->
+### 🚀 Currently Exploring
 <div align="center">
-  <h2>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
-    <span style="color: #00D9FF;">Tech Arsenal</span>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
-  </h2>
+  <img src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" alt="GSAP" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Vanta.js" width="65" height="65" />
 </div>
 
-<!-- Frontend Technologies -->
-<div align="center">
-  <h3>🎨 Frontend Mastery</h3>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap&theme=dark" />
-  <br><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</div>
-
-<!-- Backend Technologies -->
-<div align="center">
-  <h3>⚡ Backend Power</h3>
-  <img src="https://skillicons.dev/icons?i=python,django,mongodb,mysql,firebase&theme=dark" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-</div>
-
-<!-- Learning & Tools -->
-<div align="center">
-  <h3>🚀 Currently Exploring</h3>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vanta.js-FF6B6B?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Advanced_React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </div>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=&fontSize=1&animation=twinkling"/>
 
-<!-- GitHub Stats Section -->
+<!-- GitHub Stats with Custom Theme -->
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
-    <span style="color: #00D9FF;">GitHub Analytics</span>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
-  </h2>
+
+## 📊 GitHub Analytics Dashboard
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aayushmishra321&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushmishra321&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10" alt="Top Languages" />
 </div>
 
-<!-- Stats Cards -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayushmishra321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushmishra321&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-</div>
-
-<!-- Streak Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushmishra321&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushmishra321&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayushmishra321&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aayushmishra321&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Aayush's%20Contribution%20Graph&area_color=00d9ff" alt="Activity Graph" />
 </div>
 
-<!-- Contribution Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aayushmishra321/aayushmishra321/output/snake.svg" alt="Snake animation" />
 </div>
 
-<!-- Trophies -->
+<!-- Developer Level System -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header&text=&fontSize=1"/>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aayushmishra321&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+
+## 🎮 Developer RPG Stats
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🏆 Achievements Unlocked
+- 🎯 **Full Stack Mastery**: Level 85
+- 🚀 **React Specialist**: Level 90  
+- 🐍 **Python Expert**: Level 88
+- 🎨 **UI/UX Designer**: Level 82
+- ☕ **Coffee Addiction**: Level ∞
+
+</td>
+<td align="center" width="50%">
+
+### 📈 Current Stats
+- 💻 **Lines of Code**: 50,000+
+- 🐛 **Bugs Squashed**: 1,337
+- ☕ **Coffee Consumed**: 2,847 cups
+- 🌙 **Late Night Coding**: 365 nights
+- 🎉 **Projects Completed**: 25+
+
+</td>
+</tr>
+</table>
+
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Fun Developer Stats -->
+<!-- Skills Progress Bars -->
 <div align="center">
-  <h2>🎮 Developer Level Stats</h2>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Experience-3+_Years-00D9FF?style=for-the-badge&labelColor=0D1117" />
-        <br>
-        <img src="https://img.shields.io/badge/Projects_Completed-15+-9945FF?style=for-the-badge&labelColor=0D1117" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Coffee_Consumed-∞_Cups-FF6B6B?style=for-the-badge&labelColor=0D1117" />
-        <br>
-        <img src="https://img.shields.io/badge/Bugs_Fixed-1000+-4ECDC4?style=for-the-badge&labelColor=0D1117" />
-      </td>
-    </tr>
-  </table>
+
+### 💪 Skill Mastery Levels
+
+**Frontend Development**
+<div style="background-color: #0d1117; border-radius: 10px; padding: 10px;">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
+  <br>
+  <img src="https://progress-bar.dev/90/?scale=100&title=Mastery&width=300&color=00d9ff" />
 </div>
 
-<!-- Skill Progress Bars -->
-<div align="center">
-  <h3>💪 Skill Levels</h3>
-  
-  **Frontend Development** 
-  ![Frontend](https://geps.dev/progress/90?dangerColor=800080&warningColor=ff9500&successColor=00D9FF)
-  
-  **Backend Development** 
-  ![Backend](https://geps.dev/progress/85?dangerColor=800080&warningColor=ff9500&successColor=00D9FF)
-  
-  **Database Design** 
-  ![Database](https://geps.dev/progress/80?dangerColor=800080&warningColor=ff9500&successColor=00D9FF)
-  
-  **Problem Solving** 
-  ![Problem Solving](https://geps.dev/progress/95?dangerColor=800080&warningColor=ff9500&successColor=00D9FF)
+**Backend Development**  
+<div style="background-color: #0d1117; border-radius: 10px; padding: 10px;">
+  <img src="https://skillicons.dev/icons?i=python,django,mongodb,mysql,firebase" />
+  <br>
+  <img src="https://progress-bar.dev/85/?scale=100&title=Mastery&width=300&color=9945ff" />
 </div>
 
-<!-- Random Dev Quote -->
-<div align="center">
-  <h3>💭 Daily Motivation</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+**Problem Solving**
+<div style="background-color: #0d1117; border-radius: 10px; padding: 10px;">
+  <img src="https://progress-bar.dev/95/?scale=100&title=Mastery&width=300&color=ff6b6b" />
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Connect Section -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
-    <span style="color: #00D9FF;">Let's Connect & Collaborate</span>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
-  </h2>
 </div>
 
+<!-- Trophies Section -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/aayush-mishra-01227725b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=aayushmishra321&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+
+</div>
+
+<!-- Quote Section -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header&text=&fontSize=1"/>
+
+<div align="center">
+
+## 💭 Developer Wisdom
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Dev Quote" />
+
+</div>
+
+<!-- Connect Section with Animated Icons -->
+<div align="center">
+
+## 🌐 Let's Connect & Build Together
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/aayush-mishra-01227725b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
   </a>
-  <a href="mailto:Maayush081@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:Maayush081@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
   </a>
-  <a href="https://github.com/aayushmishra321">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/aayushmishra321" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub" />
   </a>
 </div>
 
-<!-- Call to Action -->
+### 🚀 Open For Opportunities
+
 <div align="center">
-  <h3>🚀 Ready to Build Something Amazing?</h3>
-  <p>
-    <img src="https://img.shields.io/badge/💼_Open_for-Freelance_Projects-00D9FF?style=for-the-badge&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/🤝_Looking_for-Collaboration-9945FF?style=for-the-badge&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/💡_Available_for-Consulting-FF6B6B?style=for-the-badge&labelColor=0D1117" />
-  </p>
+  <img src="https://img.shields.io/badge/💼%20Freelance-Available-00D9FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🤝%20Collaboration-Open-9945FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/💡%20Consulting-Ready-FF6B6B?style=for-the-badge&labelColor=0D1117" />
 </div>
 
-<!-- Easter Egg -->
-<div align="center">
-  <details>
-    <summary>🎁 Click for a surprise!</summary>
-    <br>
-    <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" />
-    <br>
-    <h3>🎉 You found the easter egg!</h3>
-    <p><strong>Fun Fact:</strong> I debug with console.log() and I'm not ashamed! 😄</p>
-    <p><strong>Secret Skill:</strong> Can turn coffee into code at 3 AM ☕→💻</p>
-    <p><strong>Superpower:</strong> Making responsive designs that actually work on Internet Explorer... just kidding, nobody has that power! 😂</p>
-  </details>
 </div>
 
-<!-- Footer Wave -->
+<!-- Interactive Easter Egg -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+<details>
+<summary>🎁 Click here for a special surprise!</summary>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
 </div>
 
-<!-- Visitor Message -->
+### 🎉 Congratulations! You found the secret section! 
+
+**🔥 Fun Developer Facts:**
+- I can debug code faster than I can explain what's wrong with it
+- My relationship status: In a committed relationship with VS Code
+- I speak fluent JavaScript, Python, and sarcasm
+- My code works on my machine... and that's what matters! 😄
+
+**🎯 Secret Achievement Unlocked:** *Easter Egg Hunter* 🥚
+
 <div align="center">
-  <h4>Thanks for visiting! Have a great day! 😊</h4>
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%" />
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+</div>
+
+</details>
+
+</div>
+
+<!-- Footer with Animation -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
+
+### 🌟 "Code is poetry written in logic" 🌟
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" />
+
 </div>
