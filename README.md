@@ -3,9 +3,9 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aayush%20Mahesh%20Mishra&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20Expert%20%7C%20Python%20Specialist&descAlignY=55&descAlign=50&descSize=18"/>
 </div>
 
-<!-- Working Typing Animation with Proper Spacing -->
-<div align="center" style="margin: 20px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Building+Digital+Solutions;💻+React+%7C+Python+%7C+Django+Expert;🎯+15%2B+Projects+Completed;✨+Available+for+Exciting+Opportunities" alt="Typing SVG" />
+<!-- Alternative Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Full+Stack+Developer+from+India;💻+React+%7C+Python+%7C+Django+Specialist;🎯+Building+Scalable+Web+Applications;✨+15%2B+Projects+Successfully+Delivered;🌟+Available+for+Exciting+Opportunities" alt="Typing Animation" />
 </div>
 
 <br/>
