@@ -113,21 +113,27 @@ Transforming complex business requirements into elegant, user-friendly digital s
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
   </h2>
 </div>
-<!-- GitHub Stats with Working APIs -->
+
+<!-- Simple Working Stats -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayushmishra321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushmishra321&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aayushmishra321&show_icons=true&theme=dark" alt="Aayush's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushmishra321&theme=dark&layout=compact" alt="Top Languages"/>
 </div>
 
 <br/>
 
-<!-- Streak Stats with Working API -->
+<!-- Profile Summary Cards -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=aayushmishra321&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayushmishra321&theme=github_dark" alt="Profile Summary"/>
 </div>
 
 <br/>
 
+<!-- Contribution Stats -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aayushmishra321&theme=github_dark" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aayushmishra321&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+</div>
 
 
 
