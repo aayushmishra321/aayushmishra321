@@ -140,30 +140,6 @@ Transforming complex business requirements into elegant, user-friendly digital s
 <tr>
 <td width="50%" align="center">
 
-### 💪 Technical Skills
-
-**Frontend Development**
-<br/>
-![Frontend](https://img.shields.io/badge/Expertise-90%25-00d4ff?style=for-the-badge&labelColor=1a1a1a)
-
-**Backend Development**
-<br/>
-![Backend](https://img.shields.io/badge/Expertise-85%25-00d4ff?style=for-the-badge&labelColor=1a1a1a)
-
-**Database Management**
-<br/>
-![Database](https://img.shields.io/badge/Expertise-80%25-00d4ff?style=for-the-badge&labelColor=1a1a1a)
-
-**Problem Solving**
-<br/>
-![Problem Solving](https://img.shields.io/badge/Expertise-95%25-00d4ff?style=for-the-badge&labelColor=1a1a1a)
-
-</td>
-<td width="50%" align="center">
-
-<!-- Animated Divider -->
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-
 <!-- Connect Section -->
 <div align="center">
   <h2>
