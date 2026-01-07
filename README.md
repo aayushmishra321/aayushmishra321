@@ -3,13 +3,15 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aayush%20Mahesh%20Mishra&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20Expert%20%7C%20Python%20Specialist&descAlignY=55&descAlign=50&descSize=18"/>
 </div>
 
-<!-- Working Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Building+Digital+Solutions;💻+React+%7C+Python+%7C+Django+Expert;🎯+15%2B+Projects+Completed;✨+Available+for+Exciting+Opportunities" alt="Typing SVG" />
-</p>
+<!-- Working Typing Animation with Proper Spacing -->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Building+Digital+Solutions;💻+React+%7C+Python+%7C+Django+Expert;🎯+15%2B+Projects+Completed;✨+Available+for+Exciting+Opportunities" alt="Typing SVG" />
+</div>
 
-<!-- Floating Profile Stats -->
-<div align="center">
+<br/>
+
+<!-- Profile Stats with Proper Spacing -->
+<div align="center" style="margin: 30px 0;">
   <img src="https://komarev.com/ghpvc/?username=aayushmishra321&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/aayushmishra321?label=Followers&style=for-the-badge&color=00d4ff&labelColor=1a1a1a" alt="Followers" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge&labelColor=1a1a1a" alt="Status" />
