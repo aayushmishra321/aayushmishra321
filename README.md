@@ -102,66 +102,6 @@ Transforming complex business requirements into elegant, user-friendly digital s
 <!-- Animated Divider -->
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 
-<!-- Projects Showcase with Cards -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-    Featured Projects Portfolio
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  </h2>
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-### 🦷 Dental Clinic Management System
-<img src="https://img.shields.io/badge/Status-✅%20COMPLETED-brightgreen?style=for-the-badge&labelColor=1a1a1a"/>
-
-**🎯 A comprehensive healthcare management solution**
-
-**Key Features:**
-- 📅 Patient appointment scheduling
-- 📋 Medical records management  
-- 💳 Billing & payment processing
-- 👥 Staff management system
-- 🔔 Real-time notifications
-- 📊 Analytics dashboard
-
-**Tech Stack:**
-<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-
-</td>
-<td width="50%" align="center">
-
-### 💼 Personal Portfolio Website
-<img src="https://img.shields.io/badge/Status-🚀%20LIVE-blue?style=for-the-badge&labelColor=1a1a1a"/>
-
-**🎯 Interactive portfolio showcasing my work**
-
-**Key Features:**
-- 🎨 Responsive design
-- ✨ Interactive animations
-- 🖼️ Project galleries
-- 📧 Contact form integration
-- 🔍 SEO optimized
-- 🌙 Dark/Light theme toggle
-
-**Tech Stack:**
-<br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white"/>
-
-</td>
-</tr>
-</table>
-
 <!-- Animated Divider -->
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 
@@ -220,22 +160,6 @@ Transforming complex business requirements into elegant, user-friendly digital s
 
 </td>
 <td width="50%" align="center">
-
-### 🏆 Achievements
-
-<img src="https://img.shields.io/badge/Projects%20Completed-15+-brightgreen?style=for-the-badge&labelColor=1a1a1a&logo=github"/>
-
-<img src="https://img.shields.io/badge/Years%20Experience-3+-blue?style=for-the-badge&labelColor=1a1a1a&logo=calendar"/>
-
-<img src="https://img.shields.io/badge/Technologies%20Mastered-10+-orange?style=for-the-badge&labelColor=1a1a1a&logo=code"/>
-
-<img src="https://img.shields.io/badge/Coffee%20Consumed-1000%2B%20Cups-brown?style=for-the-badge&labelColor=1a1a1a&logo=coffee"/>
-
-<img src="https://img.shields.io/badge/Lines%20of%20Code-50K%2B-purple?style=for-the-badge&labelColor=1a1a1a&logo=git"/>
-
-</td>
-</tr>
-</table>
 
 <!-- Animated Divider -->
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
