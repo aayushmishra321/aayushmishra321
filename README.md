@@ -114,13 +114,7 @@ Transforming complex business requirements into elegant, user-friendly digital s
   </h2>
 </div>
 
-<!-- Simple Working Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayushmishra321&show_icons=true&theme=dark" alt="Aayush's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushmishra321&theme=dark&layout=compact" alt="Top Languages"/>
-</div>
 
-<br/>
 
 <!-- Profile Summary Cards -->
 <div align="center">
