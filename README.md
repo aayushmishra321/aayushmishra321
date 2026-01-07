@@ -3,12 +3,14 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aayush%20Mahesh%20Mishra&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20Expert%20%7C%20Python%20Specialist&descAlignY=55&descAlign=50&descSize=18"/>
 </div>
 
-<!-- Single Working Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Full+Stack+Developer+from+India;💻+React+%7C+Python+%7C+Django+Expert;🎯+Building+Amazing+Web+Solutions;✨+Passionate+Problem+Solver;🌟+Available+for+Opportunities" alt="Typing Animation" />
-</div>
+<!-- Working Typing Animation -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=00D4FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+from+India;React+%7C+Python+%7C+Django;Building+Scalable+Web+Applications;Passionate+Problem+Solver;Open+to+Opportunities" 
+    alt="Typing Animation" 
+  />
+</p>
 
-<br/>
 
 
 <!-- Animated Wave Divider -->
