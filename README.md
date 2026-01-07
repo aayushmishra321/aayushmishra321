@@ -1,258 +1,325 @@
-<!-- Custom CSS Styling -->
+<!-- Dynamic Header with Particle Animation -->
 <div align="center">
-
-![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Aayush%20Mahesh%20Mishra&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Code%20Architect&descAlignY=55&descAlign=50" />
 </div>
 
-<!-- Animated Name with Matrix Effect -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hello+World!+I'm+Aayush+Mahesh+Mishra+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Python+%7C+Django+Specialist+%F0%9F%94%A5;Building+Digital+Dreams+into+Reality+%E2%9C%A8" alt="Typing SVG" />
-</h1>
-
-<!-- Glowing Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=&fontSize=1&animation=twinkling"/>
-
-<!-- Profile Views Counter with Animation -->
+<!-- Typing Animation with Multiple Lines -->
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=aayushmishra321&icon=2&color=0" alt="Profile Views" />
-</div>
-
-<!-- About Me Section with Neon Cards -->
-<div align="center">
-  
-## 🌟 About Me
-
-<table border="0" align="center">
-<tr border="0">
-<td width="50%" align="center">
-  
-  🎯 **Current Mission**
-  
-  Building a **Dental Clinic Management System** that revolutionizes healthcare management
-  
-  🌱 **Learning Journey**
-  
-  Mastering **GSAP** & **Vanta.js** for mind-blowing animations
-  
-  🤝 **Collaboration Goals**
-  
-  Open to exciting **React Projects** and innovative ideas
-  
-</td>
-<td width="50%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300px" alt="Coding GIF"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Tech Stack Section with Glowing Effects -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header&text=&fontSize=1"/>
-
-<div align="center">
-
-## 💻 Tech Stack Universe
-
-### 🎨 Frontend Mastery
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" width="65" height="65" />
-  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" width="65" height="65" />
-  <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" width="65" height="65" />
-</div>
-
-### ⚡ Backend Power
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
-  <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-  <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" width="65" height="65" />
-</div>
-
-### 🚀 Currently Exploring
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" alt="GSAP" width="65" height="65" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Vanta.js" width="65" height="65" />
-</div>
-
-</div>
-
-<!-- Animated Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=&fontSize=1&animation=twinkling"/>
-
-<!-- GitHub Stats with Custom Theme -->
-<div align="center">
-
-## 📊 GitHub Analytics Dashboard
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aayushmishra321&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushmishra321&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushmishra321&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aayushmishra321&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Aayush's%20Contribution%20Graph&area_color=00d9ff" alt="Activity Graph" />
-</div>
-
-</div>
-
-<!-- Developer Level System -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header&text=&fontSize=1"/>
-
-<div align="center">
-
-## 🎮 Developer RPG Stats
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 🏆 Achievements Unlocked
-- 🎯 **Full Stack Mastery**: Level 85
-- 🚀 **React Specialist**: Level 90  
-- 🐍 **Python Expert**: Level 88
-- 🎨 **UI/UX Designer**: Level 82
-- ☕ **Coffee Addiction**: Level ∞
-
-</td>
-<td align="center" width="50%">
-
-### 📈 Current Stats
-- 💻 **Lines of Code**: 50,000+
-- 🐛 **Bugs Squashed**: 1,337
-- ☕ **Coffee Consumed**: 2,847 cups
-- 🌙 **Late Night Coding**: 365 nights
-- 🎉 **Projects Completed**: 25+
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Skills Progress Bars -->
-<div align="center">
-
-### 💪 Skill Mastery Levels
-
-**Frontend Development**
-<div style="background-color: #0d1117; border-radius: 10px; padding: 10px;">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
-  <br>
-  <img src="https://progress-bar.dev/90/?scale=100&title=Mastery&width=300&color=00d9ff" />
-</div>
-
-**Backend Development**  
-<div style="background-color: #0d1117; border-radius: 10px; padding: 10px;">
-  <img src="https://skillicons.dev/icons?i=python,django,mongodb,mysql,firebase" />
-  <br>
-  <img src="https://progress-bar.dev/85/?scale=100&title=Mastery&width=300&color=9945ff" />
-</div>
-
-**Problem Solving**
-<div style="background-color: #0d1117; border-radius: 10px; padding: 10px;">
-  <img src="https://progress-bar.dev/95/?scale=100&title=Mastery&width=300&color=ff6b6b" />
-</div>
-
-</div>
-
-<!-- Trophies Section -->
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=aayushmishra321&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-
-</div>
-
-<!-- Quote Section -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header&text=&fontSize=1"/>
-
-<div align="center">
-
-## 💭 Developer Wisdom
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Dev Quote" />
-
-</div>
-
-<!-- Connect Section with Animated Icons -->
-<div align="center">
-
-## 🌐 Let's Connect & Build Together
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/aayush-mishra-01227725b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
-  </a>
-  <a href="mailto:Maayush081@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
-  </a>
-  <a href="https://github.com/aayushmishra321" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Full+Stack+Developer+from+India;💻+React+%7C+Python+%7C+Django+Expert;🎯+Turning+Ideas+into+Digital+Reality;✨+Building+Scalable+Web+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
-### 🚀 Open For Opportunities
-
+<!-- Profile Stats Row -->
 <div align="center">
-  <img src="https://img.shields.io/badge/💼%20Freelance-Available-00D9FF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/🤝%20Collaboration-Open-9945FF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/💡%20Consulting-Ready-FF6B6B?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://komarev.com/ghpvc/?username=aayushmishra321&label=Profile%20Views&color=4ECDC4&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/aayushmishra321?label=Followers&style=flat-square&color=4ECDC4&labelColor=282828" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-4ECDC4?style=flat-square&labelColor=282828" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=flat-square&labelColor=282828" alt="Status" />
 </div>
-
-</div>
-
-<!-- Interactive Easter Egg -->
-<div align="center">
-
-<details>
-<summary>🎁 Click here for a special surprise!</summary>
 
 <br>
 
+<!-- About Me Section with Cards -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
+  <h2>🎯 About Me</h2>
+  
+  <table>
+    <tr>
+      <td width="60%" valign="top">
+        
+### 👨‍💻 Who Am I?
+
+I'm **Aayush Mahesh Mishra**, a passionate Full Stack Developer from India with expertise in modern web technologies. I specialize in creating robust, scalable applications that solve real-world problems.
+
+### 🎓 What I Do?
+- **Frontend Development**: Crafting responsive, interactive user interfaces
+- **Backend Development**: Building secure, efficient server-side applications  
+- **Database Design**: Architecting scalable data solutions
+- **System Integration**: Connecting different technologies seamlessly
+
+### 🌟 My Mission?
+To bridge the gap between complex technical requirements and user-friendly solutions, creating digital experiences that make a difference.
+
+      </td>
+      <td width="40%" align="center">
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding Animation"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/💡-Always%20Learning-FF6B6B?style=for-the-badge&labelColor=282828" />
+        <br>
+        <img src="https://img.shields.io/badge/🎯-Problem%20Solver-4ECDC4?style=for-the-badge&labelColor=282828" />
+        <br>
+        <img src="https://img.shields.io/badge/🚀-Innovation%20Driven-45B7D1?style=for-the-badge&labelColor=282828" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-### 🎉 Congratulations! You found the secret section! 
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-**🔥 Fun Developer Facts:**
-- I can debug code faster than I can explain what's wrong with it
-- My relationship status: In a committed relationship with VS Code
-- I speak fluent JavaScript, Python, and sarcasm
-- My code works on my machine... and that's what matters! 😄
-
-**🎯 Secret Achievement Unlocked:** *Easter Egg Hunter* 🥚
-
+<!-- Tech Stack Section -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+  <h2>🛠️ Technology Arsenal</h2>
+  
+  <h3>Frontend Technologies</h3>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  </p>
+  
+  <h3>Backend Technologies</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
+  </p>
+  
+  <h3>Currently Mastering</h3>
+  <p>
+    <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+    <img src="https://img.shields.io/badge/Vanta.js-FF6B6B?style=for-the-badge&logo=javascript&logoColor=white" alt="Vanta.js" />
+    <img src="https://img.shields.io/badge/Advanced%20React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Advanced React" />
+  </p>
 </div>
 
-</details>
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- Projects Showcase -->
+<div align="center">
+  <h2>🚀 Featured Projects</h2>
+  
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🦷 Dental Clinic Management System</h3>
+        <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&labelColor=282828" />
+        <br><br>
+        <p><strong>A comprehensive healthcare management solution</strong></p>
+        <p>
+          • Patient appointment scheduling<br>
+          • Medical records management<br>
+          • Billing and payment processing<br>
+          • Staff management system<br>
+          • Real-time notifications
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+          <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%" align="center">
+        <h3>💼 Portfolio Website</h3>
+        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge&labelColor=282828" />
+        <br><br>
+        <p><strong>Personal portfolio showcasing my work</strong></p>
+        <p>
+          • Responsive design<br>
+          • Interactive animations<br>
+          • Project galleries<br>
+          • Contact form integration<br>
+          • SEO optimized
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🛒 E-Commerce Platform</h3>
+        <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&labelColor=282828" />
+        <br><br>
+        <p><strong>Full-featured online shopping platform</strong></p>
+        <p>
+          • Product catalog management<br>
+          • Shopping cart functionality<br>
+          • Payment gateway integration<br>
+          • Order tracking system<br>
+          • Admin dashboard
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%" align="center">
+        <h3>📱 Task Management App</h3>
+        <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&labelColor=282828" />
+        <br><br>
+        <p><strong>Productivity app for team collaboration</strong></p>
+        <p>
+          • Task creation and assignment<br>
+          • Progress tracking<br>
+          • Team collaboration tools<br>
+          • Deadline reminders<br>
+          • Analytics dashboard
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+          <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- Footer with Animation -->
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- GitHub Stats -->
 <div align="center">
+  <h2>📊 GitHub Analytics</h2>
+  
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayushmishra321&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4ECDC4&icon_color=4ECDC4&text_color=ffffff&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushmishra321&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4ECDC4&text_color=ffffff" alt="Top Languages" />
+  </div>
+  
+  <br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushmishra321&theme=dark&hide_border=true&background=0d1117&stroke=4ECDC4&ring=4ECDC4&fire=FF6B6B&currStreakLabel=4ECDC4" alt="GitHub Streak" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayushmishra321&bg_color=0d1117&color=4ECDC4&line=4ECDC4&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
+<!-- Achievement Section -->
+<div align="center">
+  <h2>🏆 Achievements & Milestones</h2>
+  
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Projects-15+-4ECDC4?style=for-the-badge&labelColor=282828&logo=github" />
+        <br><strong>Completed Projects</strong>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Experience-3+-FF6B6B?style=for-the-badge&labelColor=282828&logo=calendar" />
+        <br><strong>Years of Experience</strong>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Technologies-10+-45B7D1?style=for-the-badge&labelColor=282828&logo=code" />
+        <br><strong>Technologies Mastered</strong>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Coffee-1000+-8B4513?style=for-the-badge&labelColor=282828&logo=coffee" />
+        <br><strong>Cups of Coffee</strong>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=aayushmishra321&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
+</div>
 
-### 🌟 "Code is poetry written in logic" 🌟
+<!-- Skills Progress -->
+<div align="center">
+  <h2>💪 Skill Proficiency</h2>
+  
+  <table>
+    <tr>
+      <td width="50%">
+        <strong>Frontend Development</strong><br>
+        <img src="https://progress-bar.dev/90/?scale=100&title=90%25&width=300&color=4ECDC4&suffix=" />
+        <br><br>
+        <strong>Backend Development</strong><br>
+        <img src="https://progress-bar.dev/85/?scale=100&title=85%25&width=300&color=FF6B6B&suffix=" />
+        <br><br>
+        <strong>Database Management</strong><br>
+        <img src="https://progress-bar.dev/80/?scale=100&title=80%25&width=300&color=45B7D1&suffix=" />
+      </td>
+      <td width="50%">
+        <strong>Problem Solving</strong><br>
+        <img src="https://progress-bar.dev/95/?scale=100&title=95%25&width=300&color=9B59B6&suffix=" />
+        <br><br>
+        <strong>System Design</strong><br>
+        <img src="https://progress-bar.dev/75/?scale=100&title=75%25&width=300&color=F39C12&suffix=" />
+        <br><br>
+        <strong>Team Collaboration</strong><br>
+        <img src="https://progress-bar.dev/88/?scale=100&title=88%25&width=300&color=2ECC71&suffix=" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" />
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- Connect Section -->
+<div align="center">
+  <h2>🤝 Let's Connect & Collaborate</h2>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/aayush-mishra-01227725b/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:Maayush081@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://github.com/aayushmishra321" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+  
+  <h3>🎯 I'm Available For:</h3>
+  <p>
+    <img src="https://img.shields.io/badge/💼%20Freelance%20Projects-Open-4ECDC4?style=for-the-badge&labelColor=282828" />
+    <img src="https://img.shields.io/badge/🤝%20Collaborations-Welcome-FF6B6B?style=for-the-badge&labelColor=282828" />
+    <img src="https://img.shields.io/badge/💡%20Consulting-Available-45B7D1?style=for-the-badge&labelColor=282828" />
+  </p>
+</div>
+
+<!-- Fun Facts Section -->
+<div align="center">
+  <details>
+    <summary><h3>🎉 Fun Facts About Me (Click to expand!)</h3></summary>
+    <br>
+    <table>
+      <tr>
+        <td align="center">
+          <h4>🎮 When I'm Not Coding</h4>
+          <p>
+            • Playing chess ♟️<br>
+            • Reading tech blogs 📚<br>
+            • Exploring new frameworks 🔍<br>
+            • Contributing to open source 🌟
+          </p>
+        </td>
+        <td align="center">
+          <h4>☕ Developer Habits</h4>
+          <p>
+            • Code best at 2 AM 🌙<br>
+            • Debug with console.log() 🐛<br>
+            • Stack Overflow is my friend 🤝<br>
+            • Git commit -m "fix" 😅
+          </p>
+        </td>
+      </tr>
+    </table>
+    <br>
+    <img src="https://img.shields.io/badge/Secret%20Unlocked-🎉%20You%20Found%20It!-gold?style=for-the-badge&labelColor=282828" />
+  </details>
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=70" />
+  
+  <h4>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House</h4>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Thanks+for+checking+out+my+profile!;Let's+build+something+amazing+together!;Happy+coding!+🚀" alt="Footer Typing" />
 </div>
