@@ -222,26 +222,15 @@ Transforming complex business requirements into elegant, user-friendly digital s
   </h2>
 </div>
 
-<!-- Stats Row 1 -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayushmishra321&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushmishra321&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" alt="Top Languages"/>
-</div>
 
-<!-- Streak Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushmishra321&theme=radical&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak"/>
-</div>
+
+
 
 <!-- Activity Graph -->
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aayushmishra321&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=Aayush's%20Contribution%20Activity" alt="Activity Graph"/>
 </div>
 
-<!-- Trophy Display -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aayushmishra321&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
 
 <!-- Animated Divider -->
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
