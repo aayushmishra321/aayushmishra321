@@ -384,27 +384,3 @@ Transforming complex business requirements into elegant, user-friendly digital s
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
-<!-- If above doesn't work, here's another cool animation -->
-<div align="center">
-  <img src="https://github.com/aayushmishra321/aayushmishra321/blob/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
-</div>
-
-<!-- Backup: Cool Matrix-style Animation -->
-<div align="center">
-  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="100%" alt="Matrix Code Animation" />
-</div>
-
-<!-- Additional Cool Animations -->
-<div align="center">
-  <h3>🐍 Contribution Snake Game</h3>
-  <p><em>Watch the snake eat my GitHub contributions!</em></p>
-  
-  <!-- Alternative working snake -->
-  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
-<!-- Animated Code GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" alt="Coding Animation" />
-</div>
-
