@@ -379,11 +379,12 @@ Transforming complex business requirements into elegant, user-friendly digital s
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=Thanks+for+checking+out+my+profile!+🚀;Let's+build+something+amazing+together!+✨;Happy+coding!+Keep+learning!+📚" alt="Footer Message"/>
 </div>
 
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aayushmishra321/aayushmishra321/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aayushmishra321/aayushmishra321/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aayushmishra321/aayushmishra321/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<!-- Snake Contribution Animation -->
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/aayushmishra321/aayushmishra321/output/github-contribution-grid-snake.svg" 
+    alt="GitHub Contribution Snake Animation"
+    style="max-width:100%; height:auto;"
+  />
+</p>
+
