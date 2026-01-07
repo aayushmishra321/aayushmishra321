@@ -130,55 +130,11 @@ Transforming complex business requirements into elegant, user-friendly digital s
 
 **Tech Stack:**
 <br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-
-</td>
-<td width="50%" align="center">
-
-### 🛒 E-Commerce Platform
-<img src="https://img.shields.io/badge/Status-✅%20COMPLETED-brightgreen?style=for-the-badge&labelColor=1a1a1a"/>
-
-**🎯 Full-featured online shopping solution**
-
-**Key Features:**
-- 🛍️ Product catalog management
-- 🛒 Shopping cart functionality
-- 💰 Payment gateway integration
-- 📦 Order tracking system
-- 👨‍💼 Admin dashboard
-- 📱 Mobile responsive design
-
-**Tech Stack:**
-<br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-### 📱 Task Management Application
-<img src="https://img.shields.io/badge/Status-✅%20COMPLETED-brightgreen?style=for-the-badge&labelColor=1a1a1a"/>
-
-**🎯 Productivity app for team collaboration**
-
-**Key Features:**
-- ✅ Task creation & assignment
-- 📈 Progress tracking
-- 👥 Team collaboration tools
-- ⏰ Deadline reminders
-- 📊 Analytics dashboard
-- 🔄 Real-time updates
-
-**Tech Stack:**
-<br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white"/>
 
 </td>
 <td width="50%" align="center">
