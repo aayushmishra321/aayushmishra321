@@ -131,7 +131,7 @@ Transforming complex business requirements into elegant, user-friendly digital s
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
-    Professional Skills & Experience
+    contact & Support
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
   </h2>
 </div>
@@ -144,7 +144,7 @@ Transforming complex business requirements into elegant, user-friendly digital s
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
-    Let's Connect & Build Amazing Things Together
+    Let's Build Amazing Things Together
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
   </h2>
 </div>
