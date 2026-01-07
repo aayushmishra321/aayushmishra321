@@ -113,6 +113,20 @@ Transforming complex business requirements into elegant, user-friendly digital s
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
   </h2>
 </div>
+<!-- GitHub Stats with Working APIs -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayushmishra321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushmishra321&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<!-- Streak Stats with Working API -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=aayushmishra321&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<br/>
 
 
 
